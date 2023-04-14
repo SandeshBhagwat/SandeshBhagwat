@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Bhagwat</h1>
-<h3 align="center">A passionate competitive programmer from Pune, Maharashtra..</h3>
+<h3 align="center">A passionate competitive programmer and developer from Pune, Maharashtra..</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/100966608/232117989-3e99c95a-8ef7-4d14-a56f-f1443f14c1e9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshbhagwat&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshbhagwat" /> </p>
